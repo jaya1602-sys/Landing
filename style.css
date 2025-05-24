@@ -117,3 +117,35 @@ h2{
         flex-direction: column;
     }
 }
+
+@media  (max-width :700px){
+   
+.text1{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.text2{
+    font-size:20px ;
+    margin-bottom: 10px;
+}
+
+.paragraph p{
+    font-size: 12px;
+}
+
+.menu{
+    display: none;
+}
+
+.box:last-child{
+    width: 100%;
+}
+
+.lastpara{
+    text-align: center;
+    color: grey;
+    margin-right: 110px;
+}
+}
+
